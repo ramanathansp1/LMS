@@ -5,6 +5,10 @@ Have a look at my webpage!
 Download node modules and do npm start,it will be developed in localhost://3000 site
 Great Coding!
 
+This project has no Backend connected!
+Only Frontend!
+All data and photos retrieved are stored in folders locally!
+
 ## Available Scripts
 
 In the project directory, you can run:
