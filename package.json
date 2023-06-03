@@ -16,7 +16,6 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build", 
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
